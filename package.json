@@ -1,0 +1,21 @@
+{
+  "name": "lower-case",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lower-case.js",
+  "scripts": {
+    "test": "mocha \"test/**/*_spec.js\""
+  },
+  "author": "",
+  "devDependencies": {
+    "mocha": "^6.1.0",
+    "node-red": "0.20.8",
+    "node-red-node-test-helper": "0.2.3"
+  },
+  "license": "ISC",
+  "node-red": {
+    "nodes": {
+      "lower-case": "lower-case.js"
+    }
+  }
+}
