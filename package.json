@@ -9,7 +9,7 @@
   "author": "",
   "devDependencies": {
     "mocha": "^6.1.0",
-    "node-red": "0.20.8",
+    "node-red": "1.0.4",
     "node-red-node-test-helper": "0.2.3"
   },
   "license": "ISC",
