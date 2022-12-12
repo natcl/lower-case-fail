@@ -9,8 +9,8 @@
   "author": "",
   "devDependencies": {
     "mocha": "^6.1.0",
-    "node-red": "0.20.8",
-    "node-red-node-test-helper": "0.2.3"
+    "node-red": "3.0.2",
+    "node-red-node-test-helper": "0.3.0"
   },
   "license": "ISC",
   "node-red": {
